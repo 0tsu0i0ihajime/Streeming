@@ -1,4 +1,2 @@
 Flask
-Gunicorn
-yt-dlp
-mplayer
+youtube-dl
