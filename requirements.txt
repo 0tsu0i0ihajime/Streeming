@@ -1,2 +1,4 @@
 Flask
 Gunicorn
+yt-dlp
+mplayer
